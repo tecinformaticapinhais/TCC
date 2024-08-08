@@ -1,5 +1,7 @@
 Olá 👋
 
-Repositório dos trabalhos de conclusão de curso desenvolvidos pelos alunos do Curso de Ensino Médio Integrado de Técnico em Informática do Instituto Federal do Paraná (IFPR) campus Pinhais. 
+Repositório dos trabalhos de conclusão de curso desenvolvidos pelos alunos do Curso Técnico em Informática Integrado ao Ensino Médio do Instituto Federal do Paraná (IFPR) campus Pinhais. 
 
-Coordenação do curso: Jeanine  - @ifpr.edu.br
+Coordenação do curso: Profa. Jeanine Geraldo Javarez
+
+Contato: tec.informatica.pinhais@ifpr.edu.br
